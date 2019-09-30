@@ -1,9 +1,0 @@
-name: my-environement
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - pandas
-  - cartopy
-  - matplotlib
-  - seaborn
