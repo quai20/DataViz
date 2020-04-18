@@ -5,8 +5,9 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - cartopy
-  - seaborn
+  - xarray
+  #- cartopy
+  #- seaborn
   - bokeh
   - pip
   - pip:
