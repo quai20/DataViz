@@ -8,4 +8,7 @@ dependencies:
   - cartopy
   - seaborn
   - bokeh
+  - pip
+  - pip:
+    - argopy 
 
